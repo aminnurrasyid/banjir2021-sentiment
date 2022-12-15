@@ -1,4 +1,4 @@
-# banjir2021tweets-sentiment-analysis
+# Banjir 2021 Tweets Sentiment Analysis
 a python script to stream tweets about Banjir 2021 that computes their sentiment score.
 
 The final result is affected due to the stream happened 2 weeks after the flood.<br/>
